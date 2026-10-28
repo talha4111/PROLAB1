@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.out
+*.zip
+*.pdf
+230201086.txt
+gorevler (4).txt
+.vscode/
+.DS_Store
